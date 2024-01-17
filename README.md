@@ -1,17 +1,21 @@
 # LLMs
 
+# Books
+
+Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play 2nd Edition 
+
+Natural Language Processing with Transformers, Revised Edition 1st Edition 
+
+Generative AI on AWS: Building Context-Aware Multimodal Reasoning Applications
+
+Modern Generative AI with ChatGPT and OpenAI Models: Leverage the capabilities of OpenAI's LLM for productivity and innovation with GPT3 and GPT4 
+
 # References
 
-https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1098134184/ref=sr_1_27?crid=1N9M7327M050I&keywords=LLM&qid=1705446665&sprefix=llm%2Caps%2C460&sr=8-27
-
-https://www.amazon.com/Natural-Language-Processing-Transformers-Revised/dp/1098136799/ref=sr_1_28?crid=1N9M7327M050I&keywords=LLM&qid=1705446741&sprefix=llm%2Caps%2C460&sr=8-28
-
-https://www.amazon.com/Generative-AWS-Context-Aware-Multimodal-Applications/dp/1098159225/ref=sr_1_26?crid=1N9M7327M050I&keywords=LLM&qid=1705446741&sprefix=llm%2Caps%2C460&sr=8-26
-
-https://www.amazon.com/Modern-Generative-ChatGPT-OpenAI-Models/dp/1805123335/ref=sr_1_8?crid=1N9M7327M050I&keywords=LLM&qid=1705446741&sprefix=llm%2Caps%2C460&sr=8-8
-
-https://www.youtube.com/watch?v=MLLLDaR6P08&list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm
+https://github.com/samwit/llm-tutorials/tree/main
 
 https://github.com/databricks-academy/large-language-models
 
-https://github.com/samwit/llm-tutorials/tree/main
+[Large Language Models: Application through Production](https://www.youtube.com/watch?v=MLLLDaR6P08&list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm)
+
+
